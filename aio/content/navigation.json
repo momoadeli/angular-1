@@ -290,7 +290,7 @@
             },
             {
               "url": "guide/dependency-injection-providers",
-              "title": "Defining dependency providers",
+              "title": "Configuring dependency providers",
               "tooltip": "A provider factory function is a plain function that Angular can call to create a dependency."
             },
             {

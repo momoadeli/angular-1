@@ -24,8 +24,8 @@ You should be familiar with the Angular apps in general, and have the fundamenta
     <p>Learn basic principles of dependency injection in Angular.</p>
     <p class="card-footer">Understanding dependency injection</p>
   </a>
-  <a href="guide/creating-injectable-service" class="docs-card" title="Creating and injecting service">
-    <section>Creating and injecting service</section>
+  <a href="guide/creating-injectable-service" class="docs-card" title="Creating an injectible service">
+    <section>Creating an injectible service</section>
     <p>Describes how to create a service and inject it in other services and components.</p>
     <p class="card-footer">Creating an injectable service</p>
   </a>

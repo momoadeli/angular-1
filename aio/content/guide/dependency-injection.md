@@ -79,7 +79,7 @@ When all requested services have been resolved and returned, Angular can call th
 
 ## What's next
 
-* [Creating and injecting services](guide/creating-injectable-service)
+* [Creating an injectible service](guide/creating-injectable-service)
 * [Dependency Injection in Action](guide/dependency-injection-in-action)
 
 @reviewed 2022-08-02
